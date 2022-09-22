@@ -698,7 +698,10 @@ footer {
         align-items: center;
     }
     .card {
-        width: 450px;
+        width: 280px;
+    }
+    .card img {
+        width: 100%;
     }
     /* =========testimonials======== */
     .single_testimonial {
